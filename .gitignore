@@ -1,0 +1,12 @@
+# Secrets and Agent Configuration
+.agents/
+.env*
+*.key
+*.pem
+
+# macOS & System Files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
